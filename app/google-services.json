@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839061409336",
+    "project_id": "ii-e9e28",
+    "storage_bucket": "ii-e9e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839061409336:android:945bae99cbdfdfee6260cd",
+        "android_client_info": {
+          "package_name": "co.edu.ufps.a2021_ii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839061409336-jjgehqk8tqliqr4rfno4b0doksr5up85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03cdLo5jk3_13tc6oXGM9d5mG9nvWbbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839061409336-jjgehqk8tqliqr4rfno4b0doksr5up85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

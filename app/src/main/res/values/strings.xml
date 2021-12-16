@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">2021-II</string>
+    <string name="mensaje_usuario">Digite el usuario</string>
+    <string name="mensaje_clave">Digite la Clave</string>
+    <string name="mensaje_boton">Entrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item1">Libros</string>
+    <string name="item2">Mis Libros</string>
+    <string name="item3">Mi Perfil</string>
+    <string name="descripcion">imagen libro</string>
+    <string name="title">Libro de Kotlin</string>
+    <string name="secondary_text">Libro para aplicaciones móviles</string>
+    <string name="supporting_text">MAnejo de herramientas</string>
+    <string name="action_1">Compartir</string>
+    <string name="action_2">Favorito</string>
+    <string name="mensaje_titulo">Digite el titulo</string>
+    <string name="mensaje_descripcion">Digite Descripción</string>
+    <string name="mensaje_isbn">Digite el ISBN</string>
+    <string name="mensaje_guardar">Guardar</string>
+    <string name="mensaje_id">Digite ID</string>
+    <string name="mensaje_consultar">Consultar</string>
+    <string name="mensaje_eliminar">Eliminar</string>
+    <string name="mensaje_modificar">Modificar</string>
+    <string name="msg_subscribed">Se inscribio</string>
+    <string name="msg_subscribe_failed">Fallo</string>
+    <string name="default_notification_channel_id">El canal</string>
+    <string name="fcm_message">Ntificacion</string>
+    <string name="msg_token_fmt" formatted="true" />
+    <string name="msg_token_fir" >%s</string>
+
+</resources>
